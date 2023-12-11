@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-capstone--sameen2.hlx.page/
-- Live: https://main--aem-capstone--sameen2.hlx.live/
+- Preview: https://main--helix-my-website--akansh111.hlx.page/
+- Live: https://main--helix-my-website--akansh111.hlx.live/
 
 ## Installation
 
